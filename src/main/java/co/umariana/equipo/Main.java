@@ -1,5 +1,4 @@
 package co.umariana.equipo;
-
 import java.util.List;
 import javax.swing.JOptionPane;
 import javax.swing.SwingUtilities;
